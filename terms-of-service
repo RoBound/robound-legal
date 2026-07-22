@@ -1,6 +1,6 @@
 # RoBound Terms of Service
 
-**Last Updated:** July 21, 2026
+**Last Updated:** July 22, 2026
 
 These Terms of Service ("Terms") govern your access to and use of the products and services provided by **Boundless Labs LLC** through **RoBound**, including the RoBound Discord bot, website, dashboard, APIs (if made available), premium features, and any related services (collectively, the "**Services**").
 
@@ -620,169 +620,6 @@ If you do not agree with revised Terms, you must stop using the Services.
 # 28. Severability
 
 If any provision of these Terms is determined to be invalid, unlawful, or unenforceable, the remaining provisions shall remain in full force and effect.
-# 19. Disclaimer of Warranties
-
-THE SERVICES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
-
-TO THE FULLEST EXTENT PERMITTED BY LAW, BOUNDLESS LABS LLC DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO WARRANTIES OF:
-
-* merchantability;
-* fitness for a particular purpose;
-* title;
-* non-infringement;
-* uninterrupted availability;
-* security;
-* accuracy;
-* reliability;
-* compatibility.
-
-We do not warrant or guarantee that:
-
-* the Services will always be available;
-* the Services will operate without interruption;
-* the Services will be free from bugs or errors;
-* defects will always be corrected;
-* the Services will always remain compatible with Discord, Roblox, or any third-party platform;
-* the Services will meet every user's expectations or requirements.
-
-You acknowledge that you use the Services entirely at your own risk.
-
----
-
-# 20. Limitation of Liability
-
-To the fullest extent permitted by applicable law, Boundless Labs LLC and its owners, officers, employees, contractors, affiliates, licensors, partners, and service providers shall not be liable for any indirect, incidental, consequential, exemplary, punitive, or special damages arising out of or relating to:
-
-* your use of the Services;
-* inability to use the Services;
-* downtime or interruptions;
-* loss of data;
-* loss of profits;
-* loss of business opportunities;
-* reputational harm;
-* unauthorized access to your account;
-* third-party service failures;
-* software defects;
-* security incidents beyond our reasonable control.
-
-To the fullest extent permitted by law, our total cumulative liability arising from or relating to the Services shall not exceed the greater of:
-
-* **US $50**, or
-* the total amount you paid to Boundless Labs LLC for the Services during the twelve (12) months immediately preceding the event giving rise to the claim.
-
-Some jurisdictions do not allow certain limitations of liability. In those jurisdictions, the above limitations shall apply only to the maximum extent permitted by law.
-
----
-
-# 21. Indemnification
-
-You agree to defend, indemnify, and hold harmless Boundless Labs LLC, its owners, officers, employees, contractors, affiliates, licensors, and service providers from and against any claims, damages, liabilities, losses, judgments, settlements, fines, penalties, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to:
-
-* your use of the Services;
-* your violation of these Terms;
-* your violation of applicable law;
-* your violation of any third-party rights;
-* content or information submitted by you;
-* activity occurring through your Discord account;
-* misuse of the Services by you or anyone acting on your behalf.
-
-This obligation survives termination of these Terms.
-
----
-
-# 22. Export Controls and Sanctions
-
-The Services are subject to United States export control and sanctions laws.
-
-By using the Services, you represent and warrant that:
-
-* you are not located in a country or territory subject to comprehensive U.S. sanctions;
-* you are not listed on any United States government list of prohibited or restricted persons;
-* your use of the Services will not cause Boundless Labs LLC to violate applicable export control or sanctions laws.
-
-We reserve the right to suspend or terminate access where necessary to comply with applicable laws or governmental requirements.
-
----
-
-# 23. Force Majeure
-
-Boundless Labs LLC shall not be liable for any delay or failure to perform resulting from events beyond our reasonable control, including but not limited to:
-
-* natural disasters;
-* acts of God;
-* war;
-* terrorism;
-* civil unrest;
-* labor disputes;
-* power outages;
-* internet disruptions;
-* cyberattacks;
-* governmental actions;
-* failures of third-party service providers;
-* failures of Discord, Roblox, Stripe, Cloudflare, hosting providers, or other infrastructure providers.
-
-Our obligations shall be suspended for the duration of the event preventing performance.
-
----
-
-# 24. Governing Law
-
-These Terms shall be governed by and construed in accordance with the laws of the **Commonwealth of Virginia**, United States, without regard to its conflict of law principles.
-
-Nothing in these Terms limits any mandatory consumer protections available under the laws of your country or state of residence.
-
----
-
-# 25. Dispute Resolution
-
-Before initiating formal legal proceedings, you agree to make a good-faith effort to contact us and attempt to resolve any dispute informally.
-
-If a dispute cannot be resolved through informal discussions, it shall be resolved exclusively in the state or federal courts located in the Commonwealth of Virginia, unless applicable law requires otherwise.
-
-You consent to the personal jurisdiction and venue of those courts.
-
----
-
-# 26. Changes to the Services
-
-We continually improve RoBound.
-
-Accordingly, we may:
-
-* introduce new features;
-* modify existing functionality;
-* discontinue features;
-* change technical requirements;
-* add or remove integrations;
-* release replacement Services.
-
-We reserve the right to make these changes at any time without liability.
-
----
-
-# 27. Changes to these Terms
-
-We may revise these Terms from time to time.
-
-When we make material changes, we may provide notice by:
-
-* updating the "Last Updated" date;
-* posting the revised Terms on our website;
-* notifying users through Discord;
-* sending email notifications where appropriate;
-* posting announcements through the Services.
-
-Unless otherwise stated, revised Terms become effective immediately upon publication.
-
-Your continued use of the Services after revised Terms become effective constitutes acceptance of those changes.
-
-If you do not agree with revised Terms, you must stop using the Services.
-
----
-
-# 28. Severability
-
-If any provision of these Terms is determined to be invalid, unlawful, or unenforceable, the remaining provisions shall remain in full force and effect.
 
 Any unenforceable provision shall be interpreted, where possible, to most closely reflect its original intent while remaining enforceable.
 
@@ -806,7 +643,7 @@ Boundless Labs LLC may assign or transfer these Terms, in whole or in part, in c
 
 # 31. Entire Agreement
 
-These Terms, together with our [Privacy Policy](https://github.com/RoBound/robound-legal/blob/main/privacy-policy), [Cookie Policy](https://github.com/RoBound/robound-legal/blob/main/cookie-policy), and any additional policies or guidelines expressly incorporated by reference, constitute the entire agreement between you and Boundless Labs LLC regarding the Services and supersede all prior or contemporaneous understandings, agreements, communications, and representations relating to the Services.
+These Terms, together with our [Privacy Policy](https://github.com/RoBound/robound-legal/blob/main/privacy-policy.md), [Cookie Policy](https://github.com/RoBound/robound-legal/blob/main/cookie-policy.md), and any additional policies or guidelines expressly incorporated by reference, constitute the entire agreement between you and Boundless Labs LLC regarding the Services and supersede all prior or contemporaneous understandings, agreements, communications, and representations relating to the Services.
 
 ---
 
@@ -829,45 +666,3 @@ By accessing or using RoBound, you acknowledge that you have read, understood, a
 If you do not agree to these Terms, you must discontinue use of the Services immediately.
 
 Any unenforceable provision shall be interpreted, where possible, to most closely reflect its original intent while remaining enforceable.
-
----
-
-# 29. Waiver
-
-Failure by Boundless Labs LLC to enforce any provision of these Terms shall not constitute a waiver of that provision or any other provision.
-
-Any waiver must be made expressly in writing.
-
----
-
-# 30. Assignment
-
-You may not assign, transfer, sublicense, or otherwise transfer your rights or obligations under these Terms without our prior written consent.
-
-Boundless Labs LLC may assign or transfer these Terms, in whole or in part, in connection with a merger, acquisition, corporate reorganization, sale of assets, financing transaction, or by operation of law.
-
----
-
-# 31. Entire Agreement
-
-These Terms, together with our Privacy Policy, Cookie Policy, and any additional policies or guidelines expressly incorporated by reference, constitute the entire agreement between you and Boundless Labs LLC regarding the Services and supersede all prior or contemporaneous understandings, agreements, communications, and representations relating to the Services.
-
----
-
-# 32. Contact Information
-
-If you have questions regarding these Terms or wish to contact us for legal matters, you may contact us at:
-
-**Boundless Labs LLC**
-
-**Email:** [legal@robound.dev](mailto:legal@robound.dev)
-
-We will make reasonable efforts to respond to inquiries in a timely manner.
-
----
-
-# 33. Acknowledgement
-
-By accessing or using RoBound, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
-
-If you do not agree to these Terms, you must discontinue use of the Services immediately.
